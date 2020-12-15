@@ -31,7 +31,7 @@ body {
   font-size: 1rem;
   text-transform: uppercase;
 }
-
+p,
 h1,
 h2,
 h3,
@@ -39,6 +39,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
+  color: rgba(255, 255, 255, 0.7);
 }
 
 .text-faded {
